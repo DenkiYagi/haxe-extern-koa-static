@@ -1,0 +1,16 @@
+{
+    "name": "koa-static",
+    "url": "https://github.com/DenkiYagi/haxe-extern-koa-static",
+    "description": "Haxe extern definitions for koa-static",
+    "license": "Apache",
+    "version": "4.0.0",
+    "releasenote": "",
+    "classPath": "src",
+    "contributors": ["terurou"],
+    "tags": ["js", "nodejs", "koa", "web", "http", "extern"],
+    "dependencies": {
+        "externtype": "git:https://github.com/DenkiYagi/haxe-extern-type",
+        "hxnodejs": "git:https://github.com/HaxeFoundation/hxnodejs",
+        "koa": "git:https://github.com/DenkiYagi/haxe-extern-koa"
+    }
+}
